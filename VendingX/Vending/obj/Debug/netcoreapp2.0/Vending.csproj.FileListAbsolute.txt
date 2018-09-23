@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Vending\Vending\bin\Debug\netcoreapp2.0\Vending.deps.json
+c:\users\user\source\repos\Vending\Vending\bin\Debug\netcoreapp2.0\Vending.runtimeconfig.json
+c:\users\user\source\repos\Vending\Vending\bin\Debug\netcoreapp2.0\Vending.runtimeconfig.dev.json
+c:\users\user\source\repos\Vending\Vending\bin\Debug\netcoreapp2.0\Vending.dll
+c:\users\user\source\repos\Vending\Vending\bin\Debug\netcoreapp2.0\Vending.pdb
+c:\users\user\source\repos\Vending\Vending\obj\Debug\netcoreapp2.0\Vending.csprojAssemblyReference.cache
+c:\users\user\source\repos\Vending\Vending\obj\Debug\netcoreapp2.0\Vending.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Vending\Vending\obj\Debug\netcoreapp2.0\Vending.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Vending\Vending\obj\Debug\netcoreapp2.0\Vending.AssemblyInfo.cs
+c:\users\user\source\repos\Vending\Vending\obj\Debug\netcoreapp2.0\Vending.dll
+c:\users\user\source\repos\Vending\Vending\obj\Debug\netcoreapp2.0\Vending.pdb
